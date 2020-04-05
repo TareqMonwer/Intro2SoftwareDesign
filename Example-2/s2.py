@@ -1,3 +1,7 @@
+# Number guessing game
+# Solution 1: Better
+
+
 class GuessNumber:
     def __init__(self, number, min=0, max=100):
         self.number = number
